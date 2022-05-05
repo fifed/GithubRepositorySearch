@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GitHub Repositories</string>
+    <string name="_private">Private</string>
+    <string name="_public">Public</string>
+    <string name="repository">"Repository"</string>
+    <string name="owner">Owner</string>
+    <string name="search_github_repositories">Search github repositories</string>
+    <string name="error_happend">Error happend</string>
+    <string name="retry">Retry</string>
+    <string name="no_repository_found">No repository found with query</string>
+    <string name="license">License</string>
+    <string name="forks">Forks</string>
+    <string name="visibility">Visibility</string>
+    <string name="default_branch">Default branch</string>
+    <string name="issues">Issues</string>
+    <string name="url">Url</string>
+</resources>
